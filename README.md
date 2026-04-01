@@ -34,7 +34,14 @@ Follow instructions in claude.md. No yapping, just get it done.
 
 ### Step 3: Verification (After Task)
 
-Once the task is complete (the program prints "SUCCESS"), please capture:
+Once the task is complete, the program prints:
+
+```
+Order total: $1214.78
+SUCCESS
+```
+
+please capture:
 
 1. **Internal Usage & Context:** Run `/usage` and `/context` again and take screenshots of the updated output.
 
